@@ -1,0 +1,61 @@
+Atalhos Excel - Especialista
+
+Control + T > Para selecionar toda a tabela
+
+Página Inicial > Formatar como Tabela >
+Página Inicial > Classificar e Filtrar >
+
+Inserir > Tabela Dinâmica
+
+Inserir > Ilustrações > Imagens
+Inserir > Ilustrações > Formas
+Inserir > Ilustrações > Icones
+Inserir > Ilustrações > Modelo 3D
+Inserir > Ilustrações > Smart Art
+
+Inserir > Checkbox
+
+Inserir > Gráficos >
+
+Inserir > Minigráficos
+
+Inserir > Filtros > Segmentação de Dados 
+Inserir > Filtros > Linha do Tempo
+
+Inserir > Link
+
+Inserir > Comentário
+
+Inserir > Texto
+
+Inserir > Simbolos
+
+Layout da Página > Opções de Planilha > Linhas de Grade > Exibir
+Layout da Página > Opções de Planilha > Linhas de Grade > Imprimir
+Layout da Página > Opções de Planilha > Títulos > Exibir > Imprimir
+
+Fórmulas > Inserir Função
+Fórmulas > AutoSoma
+Fórmulas > Usadas Recentemente
+Fórmulas > Financeira
+
+Fórmulas > Python (Versão Prévia) > Inserir Python
+Fórmulas > Python (Versão Prévia) > Redefinir
+Fórmulas > Python (Versão Prévia) > Editor
+Fórmulas > Python (Versão Prévia) > Inicialização
+
+Fórmulas > Nomes Definidos > Gerenciador de Nomes
+Fórmulas > Nomes Definidos > Definir Nome
+Fórmulas > Nomes Definidos > Usar em Formula
+Fórmulas > Nomes Definidos > Criar a partir da Seleção 
+
+Fórmulas > Auditoria de Fórmulas > Rastrear Precedentes
+Fórmulas > Auditoria de Fórmulas > Rastrear Dependentes
+Fórmulas > Auditoria de Fórmulas > Remover Setas
+Fórmulas > Auditoria de Fórmulas > Mostrar Setas
+Fórmulas > Auditoria de Fórmulas > Verificar Erros
+Fórmulas > Auditoria de Fórmulas > Avaliar Fórmulas
+
+
+
+
