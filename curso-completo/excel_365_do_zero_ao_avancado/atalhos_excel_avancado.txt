@@ -1,61 +1,236 @@
-Atalhos Excel - Especialista
+📌 1. Arquivo (Backstage View – não faz parte da Ribbon diretamente)
 
-Control + T > Para selecionar toda a tabela
+Novo
+Abrir
+Informações
+Salvar
+Salvar como
+Imprimir
+Compartilhar
+Exportar
+Publicar
+Fechar
+Conta
+Opções
+Comentários
 
-Página Inicial > Formatar como Tabela >
-Página Inicial > Classificar e Filtrar >
+📌 2. Página Inicial
 
-Inserir > Tabela Dinâmica
+Área de Transferência
+-Recortar
+-Copiar
+-Colar
+-Pincel de formatação
 
-Inserir > Ilustrações > Imagens
-Inserir > Ilustrações > Formas
-Inserir > Ilustrações > Icones
-Inserir > Ilustrações > Modelo 3D
-Inserir > Ilustrações > Smart Art
+Fonte
+-Tipo e tamanho da fonte
+-Negrito, Itálico, Sublinhado
+-Cor da fonte / preenchimento
+-Bordas
 
-Inserir > Checkbox
+Alinhamento
+-Alinhar texto (horizontal/vertical)
+-Recuar
+-Quebra automática
+-Mesclar células
 
-Inserir > Gráficos >
+Número
+-Formatos de número (moeda, percentual, data etc.)
 
-Inserir > Minigráficos
+Estilos
+-Formatação condicional
+-Formatar como tabela
+-Estilos de célula
 
-Inserir > Filtros > Segmentação de Dados 
-Inserir > Filtros > Linha do Tempo
+Células
+-Inserir
+-Excluir
+-Formatar
 
-Inserir > Link
+Edição
+-Preenchimento
+-Limpar
+-Classificar e filtrar
+-Localizar e selecionar
 
-Inserir > Comentário
+📌 3. Inserir
 
-Inserir > Texto
+Tabelas
+-Tabela
+-Tabela dinâmica
+-Tabela dinâmica recomendada
 
-Inserir > Simbolos
+Ilustrações
+-Imagens
+-Imagens Online
+-Formas
+-Ícones
+-SmartArt
+-Captura de tela
 
-Layout da Página > Opções de Planilha > Linhas de Grade > Exibir
-Layout da Página > Opções de Planilha > Linhas de Grade > Imprimir
-Layout da Página > Opções de Planilha > Títulos > Exibir > Imprimir
+Complementos
+-Obter complementos
 
-Fórmulas > Inserir Função
-Fórmulas > AutoSoma
-Fórmulas > Usadas Recentemente
-Fórmulas > Financeira
+Gráficos
+-Coluna, Barra, Pizza, Linha, Área, Dispersão, Radar etc.
 
-Fórmulas > Python (Versão Prévia) > Inserir Python
-Fórmulas > Python (Versão Prévia) > Redefinir
-Fórmulas > Python (Versão Prévia) > Editor
-Fórmulas > Python (Versão Prévia) > Inicialização
+Tours
+-Mapa 3D
 
-Fórmulas > Nomes Definidos > Gerenciador de Nomes
-Fórmulas > Nomes Definidos > Definir Nome
-Fórmulas > Nomes Definidos > Usar em Formula
-Fórmulas > Nomes Definidos > Criar a partir da Seleção 
+Sparklines
+-Linha, Coluna, Ganhos/Perdas
 
-Fórmulas > Auditoria de Fórmulas > Rastrear Precedentes
-Fórmulas > Auditoria de Fórmulas > Rastrear Dependentes
-Fórmulas > Auditoria de Fórmulas > Remover Setas
-Fórmulas > Auditoria de Fórmulas > Mostrar Setas
-Fórmulas > Auditoria de Fórmulas > Verificar Erros
-Fórmulas > Auditoria de Fórmulas > Avaliar Fórmulas
+Filtros
+-Segmentação de dados
+-Linha do tempo
 
+Links
+-Hiperlink
 
+Texto
+-Caixa de texto
+-Cabeçalho e rodapé
+-WordArt
+-Linha de assinatura
+-Objeto
 
+Símbolos
+-Equação
+-Símbolo
+
+📌 4. Layout da Página
+Temas
+-Temas
+-Cores
+-Fontes
+-Efeitos
+
+Configurar Página
+-Margens
+-Orientação
+-Tamanho
+-Área de impressão
+-Quebras
+-Plano de fundo
+-Imprimir títulos
+
+Dimensionar para ajustar
+-Largura / Altura
+
+Opções da Planilha
+-Linhas de grade
+-Cabeçalhos
+
+📌 5. Fórmulas
+Biblioteca de Funções
+-Inserir função
+-Funções financeiras, lógicas, texto, data/hora, pesquisa, matemática, estatística etc.
+
+Nomes Definidos
+-Nomear intervalo
+-Gerenciador de nomes
+
+Auditoria de Fórmulas
+-Rastrear precedentes
+-Rastrear dependentes
+-Mostrar fórmulas
+-Avaliar fórmula
+-Verificação de erros
+
+Cálculo
+-Opções de cálculo (automático, manual)
+
+📌 6. Dados
+Obter & Transformar (Power Query)
+-Obter dados
+-Consultas recentes
+-Combinar
+-Gerenciar consultas
+
+Conexões
+-Atualizar
+-Propriedades de conexão
+
+Classificar e Filtrar
+-Classificar crescente/decrescente
+-Filtro
+-Avançado
+
+Ferramentas de dados
+-Texto para colunas
+-Remover duplicatas
+-Preenchimento Relâmpago
+-Validação de dados
+
+Previsão
+-Previsão
+-Planilha de previsão
+
+Esquema
+-Subtotais
+-Agrupar / Desagrupar
+
+📌 7. Revisão
+Revisão de texto
+-Ortografia
+-Dicionário de sinônimos
+-Traduzir
+-Idioma
+
+Comentários
+-Novo comentário
+-Mostrar comentários
+-Responder
+
+Proteção
+-Proteger planilha
+-Proteger pasta de trabalho
+-Permitir edição de intervalo
+
+📌 8. Exibir
+Modos de Exibição da Pasta de Trabalho
+-Normal
+-Layout de Página
+-Pré-visualizar Quebra de Página
+
+Mostrar
+-Linhas de grade
+-Cabeçalhos
+-Barra de fórmulas
+-Linha de título
+
+Zoom
+-Zoom
+-100%
+-Ajustar seleção
+
+Janela
+-Nova janela
+-Organizar tudo
+-Congelar painéis
+-Dividir
+-Ocultar / Reexibir
+
+Macros
+
+📌 9. Desenvolvedor (precisa ser ativado)
+Código
+-Visual Basic
+-Macros
+-Segurança de macro
+
+Controles
+-Inserir controles (formulário/ActiveX)
+-Propriedades
+-Modo de design
+
+XML
+-Importar
+-Exportar
+-Painel de Origem XML
+
+📌 10. Ajuda
+Ajuda do Excel
+Contatar suporte
+Feedback
 
